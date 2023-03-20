@@ -1,5 +1,5 @@
 [package]
-name = "threads"
+name = "own_borrow"
 version = "0.1.0"
 edition = "2021"
 
